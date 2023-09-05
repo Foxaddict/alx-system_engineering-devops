@@ -1,2 +1,2 @@
-#!/bin/bash
-echo "Base 2: $BINARY, Base 10: $((2#$BINARY))"
+#!/bin/bash"
+echo $((2#${BINARY}))
